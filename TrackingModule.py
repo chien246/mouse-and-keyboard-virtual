@@ -1,6 +1,5 @@
 import cv2 as cv
 import mediapipe as mp
-import time
 from utils import get_index_fingers
 
 class HandTracking:
